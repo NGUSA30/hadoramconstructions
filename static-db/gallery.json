@@ -1,0 +1,105 @@
+{
+  "gallery": [
+    {
+      "img": "building-exterior.jpg",
+      "name": "Office Exterior"
+    },
+    {
+      "img": "confrence-internal-hall.jpg",
+      "name": "Office Meeting Room"
+    },
+    {
+      "img": "entertainment-room.jpg",
+      "name": "Bed Room"
+    },
+    {
+      "img": "house-1.jpg",
+      "name": "House"
+    },
+    {
+      "img": "house-2.jpg",
+      "name": "House"
+    },
+    {
+      "img": "house-3.jpg",
+      "name": "House"
+    },
+    {
+      "img": "house-4.JPG",
+      "name": "House"
+    },
+    {
+      "img": "house-5.JPG",
+      "name": "House"
+    },
+    {
+      "img": "house-6.JPG",
+      "name": "House"
+    },
+    {
+      "img": "house-7.JPG",
+      "name": "House"
+    },
+    {
+      "img": "house-8.JPG",
+      "name": "House"
+    },
+    
+    {
+      "img": "interior-d.jpg",
+      "name": "Interior "
+    },
+    {
+      "img": "interior-kitchen.jpg",
+      "name": "Interior Kitchen "
+    },
+    {
+      "img": "interior-sitting-room.jpg",
+      "name": "Interior Sitting Room "
+    },
+    {
+      "img": "landscape.jpg",
+      "name": "Landscape"
+    },
+    {
+      "img": "landscape-2.jpg",
+      "name": "Landscape"
+    },
+    {
+      "img": "landscape-3.jpg",
+      "name": "Landscape"
+    },
+    {
+      "img": "office-1.jpg",
+      "name": "Office"
+    },
+    {
+      "img": "office-2.jpg",
+      "name": "Office"
+    },
+    {
+      "img": "office-campus.jpg",
+      "name": "Campus"
+    },
+    {
+      "img": "office-drone.jpg",
+      "name": "Campus"
+    },
+    {
+      "img": "office-exterior.jpg",
+      "name": "Office Exterior"
+    },
+    {
+      "img": "office-exterior-pool.jpg",
+      "name": "Office Exterior"
+    },
+    {
+      "img": "office-pool.jpg",
+      "name": "Office Exterior"
+    },
+    {
+      "img": "sitting-room.jpg",
+      "name": "Sitting Room"
+    }
+  ]
+}

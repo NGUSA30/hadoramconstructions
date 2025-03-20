@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --white-color: #ffffff;
+  --black-color: #000000;
+  --posey-blue-color: #A4B5C4;
+  --polar-drift-color: #CDD5D8;
+  --cofee-color: #A68868;
+  --tostada-color: #e3c39d;
+}
